@@ -1,0 +1,1 @@
+- [x] Rework the existing league website into a public single-team TeamHub profile with Home, Fixtures, Squad, News, Gallery, and About sections, preserving the current design style.
